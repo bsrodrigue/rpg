@@ -1,3 +1,4 @@
-pub mod attack;
-pub mod character;
-pub mod potion;
+pub mod abilities;
+pub mod entities;
+pub mod objects;
+pub mod utils;

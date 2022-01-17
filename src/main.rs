@@ -1,5 +1,5 @@
 mod rpg;
-use rpg::{attack::Attack, character::Character, potion::Potion};
+use rpg::{abilities::attack::Attack, entities::character::Character, objects::potion::Potion};
 
 fn main() {
     let potion = Potion { value: 50 };

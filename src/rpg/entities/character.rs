@@ -1,5 +1,5 @@
-use crate::rpg::potion::Potion;
-use crate::Attack;
+use crate::rpg::abilities::attack::Attack;
+use crate::rpg::objects::potion::Potion;
 use std::fmt;
 
 pub struct Character {
