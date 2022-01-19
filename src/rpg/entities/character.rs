@@ -21,11 +21,9 @@ impl Character {
 
     pub fn get_attack_str(&self) -> String {
         let mut output = String::new();
-
         for attack in &self.attacks {
             output += format!("{}, ", attack).as_str();
         }
-
         output
     }
 

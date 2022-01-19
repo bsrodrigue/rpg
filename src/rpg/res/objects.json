@@ -1,0 +1,22 @@
+{
+    "potions": [
+        {
+            "name": "Small Life Potion",
+            "description": "This is a small and simple life potion",
+            "restoration_value": 25,
+            "price": 50
+        },
+        {
+            "name": "Medium Life Potion",
+            "description": "This is a medium sized life potion",
+            "restoration_value": 40,
+            "price": 75
+        },
+        {
+            "name": "Big Life Potion",
+            "description": "This is a big life potion",
+            "restoration_value": 60,
+            "price": 100
+        }
+    ]
+}
